@@ -131,13 +131,29 @@ gas-utility-service/
 - Multer for file uploads
 - Morgan for logging
 
-## Contributing
+### 📸 Screenshots
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+> - Login / Sign up
+  ![Image](https://github.com/user-attachments/assets/72de6bbf-b037-489e-b8a8-d1274f5a2f67)
+
+  ![Image](https://github.com/user-attachments/assets/0313a16e-9afc-4342-815d-534f7e7a55ed)
+
+> - Dashboard
+  ![Image](https://github.com/user-attachments/assets/34135822-7a03-467d-a91c-49a6fbd77adc)
+
+> - Sevice Requests
+  ![Image](https://github.com/user-attachments/assets/b314fb33-44f4-410e-ae0a-aa6ca3d73376)
+
+> - Create a new service requests
+  ![Image](https://github.com/user-attachments/assets/44b0ca91-ad67-47a5-a6d0-660357551008)
+
+> - Admin Dashboard
+  ![Image](https://github.com/user-attachments/assets/cbcc8571-9005-4a29-9824-bb5252e315a3)
+
+  ![Image](https://github.com/user-attachments/assets/6a8ad67e-1036-48d9-a084-a5c3f778258d)
+
+> - Demo Video
+  [▶️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1HKF7QFl-_pIMYpGtellWZR2n4whpQD5-/view?usp=sharing)
 
 ## License
 
